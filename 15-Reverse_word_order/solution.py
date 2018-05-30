@@ -18,10 +18,10 @@
 def get_input():
     while True:
         string = input("Enter a string with more than one word: ")
-	if len(string.split()) > 1 and all(ch.isalpha() or ch.isspace() for ch in string):
-	    break
-	else:
-	    print("Invalid input!\nPlease enter a valid string containing only letters and spaces...")
+        if len(string.split()) > 1 and all(ch.isalpha() or ch.isspace() for ch in string):
+            break
+        else:
+            print("Invalid input!\nPlease enter a valid string containing only letters and spaces...")
     return string
 
 
