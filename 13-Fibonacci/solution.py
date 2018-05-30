@@ -18,11 +18,11 @@
 def get_input():
     while True:
         try:
-	    number = int(input("How many Fibonacci numbers do you want to generate: "))
-	except ValueError:
-	    print("You did not enter a number.\nPlease try again...")
-	else:
-	    break
+            number = int(input("How many Fibonacci numbers do you want to generate: "))
+        except ValueError:
+            print("You did not enter a number.\nPlease try again...")
+        else:
+            break
     return number
 
 
