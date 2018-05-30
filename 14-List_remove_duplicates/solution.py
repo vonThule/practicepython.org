@@ -19,7 +19,7 @@ def generate_new_list(lst):
     result = []
     for item in lst:
         if item not in result:
-	    result.append(item)
+            result.append(item)
     return result
 
 
