@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*-
 
 """
-		File name: solution.py
-		Author: Alexander Popp
-		Date created: 5/13/2018
-		Date last modified: 5/22/2018
-		Python version: 3.4.6
-		Description:
-				Problem #7: List Comprehensions from http://www.practicepython.org
-				For detailed description of the problem see the accompanying
-				file named 'problem.txt' or refer to the aformentioned website.
+    File name: solution.py
+    Author: Alexander Popp
+    Date created: 5/13/2018
+    Date last modified: 8/8/2018
+    Python version: 3.6.5
+    Description:
+        Problem #7: List Comprehensions from http://www.practicepython.org
+        For detailed description of the problem see the accompanying
+        file named 'problem.txt' or refer to the aformentioned website.
 """
 
 
